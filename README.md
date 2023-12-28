@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
