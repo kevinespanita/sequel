@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
